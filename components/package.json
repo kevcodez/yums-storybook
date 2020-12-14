@@ -1,7 +1,11 @@
 {
   "name": "yums-components",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:kevcodez/yums-storybook.git"
   }
 }

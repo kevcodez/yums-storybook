@@ -7,5 +7,6 @@
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com:kevcodez/yums-storybook.git"
-  }
+  },
+  "gitHead": "416ccae2e28a8e517bc8c0f889a8c2107cf83dbc"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "yums-components",
+  "name": "@kevcodez/yums-components",
   "version": "0.0.2",
   "publishConfig": {
     "access": "public"
@@ -8,5 +8,5 @@
     "type": "git",
     "url": "ssh://git@github.com:kevcodez/yums-storybook.git"
   },
-  "gitHead": "a323984dd7ebed7b1b91f9395f17ed2542174cc9"
+  "gitHead": "df4d435f175ffb2062ef48d1b684c829b397c692"
 }

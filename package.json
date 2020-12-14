@@ -1,7 +1,9 @@
 {
   "name": "storybook-yums",
   "version": "1.0.0",
-  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -10,11 +12,11 @@
     "serve": "nuxt storybook"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
     "nuxt": "^2.14.6"
   },
   "devDependencies": {
     "@nuxtjs/storybook": "^3.3.0",
-    "@nuxtjs/tailwindcss": "^3.3.4"
+    "@nuxtjs/tailwindcss": "^3.3.4",
+    "lerna": "^3.22.1"
   }
 }
